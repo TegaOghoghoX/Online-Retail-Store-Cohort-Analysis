@@ -15,9 +15,10 @@ Chen, Daqing. (2019). Online Retail II. UCI Machine Learning Repository. https:/
 - Tableau
 
 ## ✨ Analysis 
-This query helps track the percentage of retained customers from each cohort (grouped by the month of their first purchase) in subsequent months. 
+This query helps track the percentage of retained customers from each cohort (grouped by the month of their first purchase) in subsequent months (i.e. over the next 24 months). 
 
 ## Result
-This has been hosted on Tableau Public [here](https://public.tableau.com/views/OnlineRetailStoreCohortRetentionAnalysis/Dashboard1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
+This has been hosted on Tableau Public [here](https://public.tableau.com/views/OnlineStoreCohortRetention/Dashboard1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
 
-![image](https://github.com/TegaOghoghoX/Online-Retail-Store-Cohort-Analysis/assets/154087927/0ea7be5f-7e02-4b9a-b4ed-6012cdbd1958)
+![image](https://github.com/TegaOghoghoX/Online-Retail-Store-Cohort-Analysis/assets/154087927/f0701ae8-9bee-4562-9180-1f1c752fcf6e)
+
