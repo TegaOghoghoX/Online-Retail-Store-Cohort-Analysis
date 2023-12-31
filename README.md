@@ -1,6 +1,6 @@
 # Online-Retail-Store-Cohort-Analysis
 
-## 🎯Project Overview 
+## 🎯 Project Overview 
 
 This project aims to explore the retention analysis of an online retail store to examine the retention of customers. 
 
